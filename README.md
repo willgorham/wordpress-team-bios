@@ -1,8 +1,12 @@
-# Custom Post Type Basics Plugin
+# Team Bios Plugin
 
-This repository is the starter plugin for the [Custom Post Type Basics](https://knowthecode.io/labs/custom-post-type-basics) lab on [Know the Code](https://KnowTheCode.io).  It gives you a shell for building the plugin in your WordPress sandbox.  
+In this repository is for a WordPress plugin that provides a team biographies to your site. 
 
-In this lab, you are building a team biographies plugin.
+This repo is part of a lab series on [Know the Code](https://KnowTheCode.io) where you build:
+ 
+- the [custom post type](https://knowthecode.io/labs/custom-post-type-basics)
+- the [custom taxonomy](https://knowthecode.io/labs/wordpress-custom-taxonomy-basics)  
+
 
 ## Installation
 
@@ -14,7 +18,7 @@ In this lab, you are building a team biographies plugin.
 Installation from GitHub is as simple as cloning the repo onto your local machine.  To clone the repo, do the following:
 
 1. Using PhpStorm, open your project and navigate to `wp-content/plugins/`. (Or open terminal and navigate there).
-2. Then type: `git clone https://github.com/KnowTheCode/Custom-Post-Type-Basics-Lab`.
+2. Then type: `git clone https://github.com/KnowTheCode/team-bios`.
 3. Go into the new folder
 
 ## Contributions

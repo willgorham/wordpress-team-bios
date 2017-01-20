@@ -22,10 +22,11 @@ namespace KnowTheCode\TeamBios\Support;
 function autoload_files( $src_root_dir ) {
 
 	$filenames = array(
-		 'custom/custom-post-type',
+		'custom/post-type',
+		'custom/taxonomy',
 	);
 
-	foreach( $filenames as $filename ) {
+	foreach ( $filenames as $filename ) {
 		include_once( $src_root_dir . $filename . '.php' );
 	}
 }
