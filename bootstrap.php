@@ -21,7 +21,7 @@
 namespace KnowTheCode\TeamBios;
 
 if ( ! defined( 'ABSPATH' ) ) {
-	exit( 'Cheatin&#8217; uh?' );
+	exit( 'Nah.' );
 }
 
 /**
